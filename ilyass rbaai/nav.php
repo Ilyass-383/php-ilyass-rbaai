@@ -86,7 +86,7 @@
           <a class="btn btn-brand " href="home.php">Login</a>
         </li>
         <li class="nav-item">
-          <a class="btn btn-brand " href="home.php">Singup</a>
+          <a class="btn btn-brand " href="home.php">Sigp up</a>
         </li>
       </ul>
     </div>
